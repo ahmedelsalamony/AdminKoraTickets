@@ -1,0 +1,115 @@
+{
+  "project_info": {
+    "project_number": "1092150202714",
+    "firebase_url": "https://koratickets.firebaseio.com",
+    "project_id": "koratickets",
+    "storage_bucket": "koratickets.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1092150202714:android:5670f935b6fc6478",
+        "android_client_info": {
+          "package_name": "com.example.ahmed.adminkoratickets"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1092150202714-kpe9kalglkmng81ss95agrke1fmcd1av.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ahmed.adminkoratickets",
+            "certificate_hash": "a357595d472be8dedc7e477a18473b59b96d84c4"
+          }
+        },
+        {
+          "client_id": "1092150202714-i6vaq0mi77kvg820ad6j0s0qtogihl1g.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "1092150202714-i6vaq0mi77kvg820ad6j0s0qtogihl1g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDn1tGjoyrcLSA4EBWAxN-cqI89_H88cYc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1092150202714-i6vaq0mi77kvg820ad6j0s0qtogihl1g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1092150202714:android:7695f3cc15979549",
+        "android_client_info": {
+          "package_name": "com.example.ahmed.koratickets"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1092150202714-ing04033uuvld9ka9ebb1skeq6vgccpb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ahmed.koratickets",
+            "certificate_hash": "a357595d472be8dedc7e477a18473b59b96d84c4"
+          }
+        },
+        {
+          "client_id": "1092150202714-gn0t1hoi9brapkguash40cleur72q4k7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ahmed.koratickets",
+            "certificate_hash": "c7a93e38f7847ca4412bc688036008fc22c08d71"
+          }
+        },
+        {
+          "client_id": "1092150202714-i6vaq0mi77kvg820ad6j0s0qtogihl1g.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "1092150202714-i6vaq0mi77kvg820ad6j0s0qtogihl1g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDn1tGjoyrcLSA4EBWAxN-cqI89_H88cYc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1092150202714-i6vaq0mi77kvg820ad6j0s0qtogihl1g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
